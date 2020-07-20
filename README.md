@@ -1,2 +1,2 @@
 # Checkers
-Checkers game
+Checkers game, design patterns are used.
